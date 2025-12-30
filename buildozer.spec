@@ -20,4 +20,3 @@ orientation = portrait
 fullscreen = 0
 android.archs = arm64-v8a, armeabi-v7a
 android.permissions = INTERNET, WRITE_EXTERNAL_STORAGE, READ_EXTERNAL_STORAGE
-"Mise à jour permissions"
